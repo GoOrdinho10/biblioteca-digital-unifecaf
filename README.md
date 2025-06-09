@@ -35,8 +35,8 @@ Siga os passos abaixo para executar o sistema em seu ambiente local.
 ### Passo 1: Clone o Repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+git clone https://github.com/GoOrdinho10/biblioteca-digital-unifecaf.git
+cd biblioteca-digital-unifecaf
 ```
 
 ### Passo 2: Configure o Banco de Dados
